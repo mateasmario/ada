@@ -1,23 +1,6 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-
-/**
- * A simple implementation for B-Tree with Integer keys
- * <p>
- * Implemented operations: insert, displayLevels
- * <p>
- * Implement as exercises:
- * public boolean contains(int key);
- * public int height();
- * public int level(int key);
- * public int min();
- * public int max();
- * public int successor(int key);
- * public int predecessor(int key);
- * public void inorder(){;
- */
-
 public class BTree {
 
     private int T; // the mindegree of the B-Tree
@@ -149,11 +132,7 @@ public class BTree {
         }
     }
 
-    public void createHardcoded() {
-        // ToDo: Implement the hardcoded tree and connect it to the root of the current object
-    }
-
     public static void main(String[] args) {
-
+        // ToDo: Your code here
     }
 }
