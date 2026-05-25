@@ -1,0 +1,16 @@
+5
+Timisoara
+Deva
+Lugoj
+Hunedoara
+Arad
+Timisoara Deva 20
+Timisoara Lugoj 10
+Deva Timisoara 10
+Deva Lugoj 15
+Lugoj Timisoara -5
+Timisoara Arad 5
+Hunedoara Deva 5
+Deva Hunedoara -5
+Arad Hunedoara 30
+Timisoara Hunedoara 25
